@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        //Task11.main();
-        //Task13.main();
+        Task11.main();
+        Task13.main();
         Task16.Circle circle = new Task16.Circle();
         circle.getArea();
         Task16.Rectangle rectangle = new Task16.Rectangle();
